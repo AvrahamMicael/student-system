@@ -1,13 +1,15 @@
-package com.avraham.student.system;
+package com.avraham.studentsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudentSystemApplicationTests {
+class StudentSystemApplicationTests
+{
 
-	@Test
-	void contextLoads() {
-	}
+  @Test
+  void contextLoads()
+  {
+  }
 
 }

@@ -9,12 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.avraham</groupId>
-	<artifactId>student.system</artifactId>
+	<artifactId>studentsystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Student System</name>
-	<description>Full Stack Web App with Spring and React.</description>
+	<name>studentsystem</name>
+	<description>Full Stack Spring and React App.</description>
 	<properties>
 		<java.version>19</java.version>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
